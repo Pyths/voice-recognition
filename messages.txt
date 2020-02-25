@@ -1,0 +1,10 @@
+Messages available:
+
+"how are you"
+"wheather"
+"change body to black", "black", "dark"
+"change body to white", "white"
+"time"
+"date"
+"delete text"
+"motivational quote"
